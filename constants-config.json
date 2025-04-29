@@ -16,7 +16,7 @@
 	"google-search-console-html-tag": "",
 	"socials": {
 		"email": "nam@ene.im",
-		"github": "eneim",
+		"github": "https://github.com/eneim",
 		"googlescholar": "",
 		"semanticscholar": "",
 		"dblp": "",
@@ -33,7 +33,7 @@
 		"this-github-repo": ""
 	},
 	"custom-domain": "blog.ene.im",
-	"base-path": "",
+	"base-path": "/posts",
 	"giscus": {
 		"data-repo": "",
 		"data-repo-id": "",
@@ -54,9 +54,9 @@
 	"references": {
 		"site-links-in-page": true,
 		"external-links-in-page": true,
-		"media-and-file-links-in-this-page": true,
+		"media-and-file-links-in-this-page": false,
 		"links-to-this-page": true,
-		"popovers": true,
+		"popovers": false,
 		"footnotes": true
 	},
 	"shortcodes": {
